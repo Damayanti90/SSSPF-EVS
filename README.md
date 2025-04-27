@@ -11,5 +11,5 @@ Download all files in 1 folder
 
 1. First execute GCN_dp_all.py
 
-2. Execute mydisease_consolidated_validation_prediction_results.py.
+2. Then execute mydisease_consolidated_validation_prediction_results.py.
 
