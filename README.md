@@ -13,3 +13,12 @@ Download all files in 1 folder
 
 2. Then execute mydisease_consolidated_validation_prediction_results.py.
 
+
+Constraints
+
+Python 3.7.3
+
+Tensorflow 2.11.0
+
+StellarGarph v1.2.1
+
