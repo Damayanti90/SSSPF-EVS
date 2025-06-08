@@ -20,5 +20,5 @@ Python 3.7.3
 
 Tensorflow 2.11.0
 
-StellarGarph v1.2.1
+StellarGarph 1.2.1
 
