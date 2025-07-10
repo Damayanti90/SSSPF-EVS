@@ -1,4 +1,4 @@
-# SSSPF-EVS
+# Our model
 
 Here, we predict drug combinations involving Dipeptidyl peptidase-4 inhibitors for treatment of Polycystic Ovarian Syndrome 
 
