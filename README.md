@@ -2,7 +2,7 @@
 
 Here, we predict drug combinations involving Dipeptidyl peptidase-4 inhibitors for treatment of Polycystic Ovarian Syndrome 
 
-For computational convenience,drugs have been named as drug_1, drug_2, etc and proteins have been named as prot_1, prot_2, etc (original ids of drugs and proteins can be retrieved from the mapping file name drug_prot_list.txt)
+For computational convenience,drugs have been named as drug_1, drug_2, etc and proteins have been named as prot_1, prot_2, etc (original ids of drugs and proteins can be retrieved from the mapping file named drug_prot_list.txt)
 
 
 Directions for execution:
